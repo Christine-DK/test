@@ -10,11 +10,11 @@
 ## NOTE: Remove everything above this part of the readme.
 ---
 
-# Introduction for <reponame>
+# Introduction for test
 
 --INSERT AN INTRODUCTION FOR YOUR APP; EXPAINING WHAT IS THE PURPOSE OF YOUR APP AND ITS BENIFITS--
 
-## Running <reponame> on Docker locally
+## Running test on Docker locally
 --NOTE: THIS CAN BE CHANGED TO WHICH ENVIRONMENT WORKS FOR YOUR WEBAPP--
 ### Prerequisites
 
